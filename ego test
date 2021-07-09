@@ -1,0 +1,5 @@
+input = str(input("Who is your favorite youtuber?   "))
+if input == "LegitFM":
+    print("\n"), print("ur the best <3"), print("\n")
+else:
+    print("\n"), print("ew who tf is that"), print("\n"), print("\n"), print("\n"), print("\n"), print("(hint) this is cAsE sEnSiTiVe")
